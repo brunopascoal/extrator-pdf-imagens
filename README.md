@@ -1,6 +1,6 @@
 # extrator-pdf-imagen
 
-![GitHub repo size](https://img.shields.io/github/repo-size/brunopascoal/extrator-pdf-imagens?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/directory-file-count/brunopascoal/extrator-pdf-imagens?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/top/brunopascoal/extrator-pdf-imagens?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/brunopascoal/extrator-pdf-imagens?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/brunopascoal/extrator-pdf-imagens?style=for-the-badge)
