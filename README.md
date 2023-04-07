@@ -1,6 +1,4 @@
-# Nome do projeto
-
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
+# extrator-pdf-imagen
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/brunopascoal/extrator-pdf-imagens?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/top/brunopascoal/extrator-pdf-imagens?style=for-the-badge)
