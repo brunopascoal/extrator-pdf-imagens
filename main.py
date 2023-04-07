@@ -1,7 +1,7 @@
 # Importa a função convert_from_path do módulo pdf2image
 from pdf2image import convert_from_path
 # Importa a função teste do módulo extracao_dados_sankhya
-from extracao_dados_sankhya import teste
+from extracao_dados import teste
 
 # Função para converter um arquivo PDF em imagens
 def converter_pdf_para_imagem(caminho_pdf, caminho_imagem, formato="png"):
