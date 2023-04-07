@@ -1,4 +1,4 @@
-# extrator-pdf-imagen
+# extrator-pdf-imagem
 
 ![GitHub repo size](https://img.shields.io/github/directory-file-count/brunopascoal/extrator-pdf-imagens?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/top/brunopascoal/extrator-pdf-imagens?style=for-the-badge)
@@ -90,4 +90,4 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](extrator-pdf-imagens)<br>
