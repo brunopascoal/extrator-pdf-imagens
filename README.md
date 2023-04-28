@@ -31,7 +31,7 @@ Para instalar extrator-pdf-imagens, siga estas etapas:
 
 ### Clone o repositório:
 ```
-git clone https://github.com/seuusuario/extrator-dados-imagens-pdf.git
+git clone https://github.com/brunopascoal/extrator-pdf-imagens.git
 ```
 
 ### Entre no diretório do projeto:
